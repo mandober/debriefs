@@ -1,0 +1,3 @@
+[submodule "haskell"]
+	path = haskell
+	url = https://github.com/mandober/debrief.haskell.git
